@@ -1,0 +1,18 @@
+header {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header .beauty {
+    position: relative;
+    height: 15vh;
+    background-color: lavender;
+}
+
+img {
+    width: 15vw;
+    height: 15vw;
+    border-radius: 100%;
+    object-fit: cover;
+    object-position: -1px -15px;
+}
